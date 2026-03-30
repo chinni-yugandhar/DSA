@@ -1,0 +1,1 @@
+add expenses 5000
